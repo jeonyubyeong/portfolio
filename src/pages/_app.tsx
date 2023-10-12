@@ -7,21 +7,21 @@ import type { AppProps } from "next/app";
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "portfolio | Front-End Dev",
+  title: "portfolio | web Dev",
   description: "안녕하세요, 정보보호학과 전유병입니다.",
-  canonical: "https://www.naver.com/",
+  canonical: "https://portfolio-rho-snowy-84.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
-    title: "portfolio | Front-End Dev",
-    site_name: "portfolio | Front-End Dev",
+    url: "https://portfolio-rho-snowy-84.vercel.app/",
+    title: "portfolio | web Dev",
+    site_name: "portfolio | web Dev",
     images: [
       {
         url: "/share.png",
         width: 285,
         height: 167,
-        alt: "portfolio | Front-End Dev",
+        alt: "portfolio | web Dev",
       },
     ],
   },
@@ -34,11 +34,11 @@ const DEFAULT_SEO = {
   additionalMetaTags: [
     {
       name: "application-name",
-      content: "portfolio | Front-End Dev",
+      content: "portfolio | web Dev",
     },
     {
       name: "msapplication-tooltip",
-      content: "portfolio | Front-End Dev",
+      content: "portfolio | web Dev",
     },
     {
       name: "viewport",
