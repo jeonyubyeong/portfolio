@@ -9,21 +9,13 @@ import type { AppProps } from "next/app";
 const DEFAULT_SEO = {
   title: "portfolio | web Dev",
   description: "안녕하세요, 정보보호학과 전유병입니다.",
-
+  canonical: "https://portfolio-rho-snowy-84.vercel.app/",
   openGraph: {
     type: "website",
     locale: "ko_KR",
     url: "https://portfolio-rho-snowy-84.vercel.app/",
     title: "portfolio | web Dev",
     site_name: "portfolio | web Dev",
-    images: [
-      {
-        url: "/share.png",
-        width: 285,
-        height: 167,
-        alt: "portfolio | web Dev",
-      },
-    ],
   },
   additionalLinkTags: [
     {
