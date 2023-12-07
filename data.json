@@ -41,12 +41,12 @@
     },
     {
       "id": 1,
-      "name": "개인 웹 제작 실습",
-      "description": "F.N.S 스터디 간단한 웹 제작 실습",
-      "repoUrl": "https://github.com/jeonyubyeong/easy-web",
+      "name": "웹 서버 보안 프로그래밍",
+      "description": "강의 중 진행했던 실습프로젝트",
+      "repoUrl": "https://github.com/jeonyubyeong",
       "isTeam": false,
-      "period": ["2023. 07","2023. 07"],
-      "stack": ["HTML", "CSS", "JS" ]
+      "period": ["2023. 09","2023. 12"],
+      "stack": ["Next.js", "React", "tailwindCSS", "MongoDB" ]
     }
   ],
 
