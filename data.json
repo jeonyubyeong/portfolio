@@ -42,11 +42,11 @@
     {
       "id": 1,
       "name": "개인 웹 제작 실습",
-      "description": "HTML&CSS를 이용한 간단한 웹 제작 실습",
+      "description": "F.N.S 스터디 간단한 웹 제작 실습",
       "repoUrl": "https://github.com/jeonyubyeong/easy-web",
       "isTeam": false,
       "period": ["2023. 07","2023. 07"],
-      "stack": ["HTML", "CSS"]
+      "stack": ["HTML", "CSS", "JS" ]
     }
   ],
 
@@ -55,43 +55,43 @@
       "id": 0,
       "name": "장재원",
       "period": ["2023. 10", "2023. 11"],
-      "description": "정보보호학과 20학번 2학년"
+      "description": "정보보호학과 20학번 2학년, 프론트엔드 개발"
     },
     {
       "id": 1,
       "name": "여승철",
       "period": ["2023. 10", "2023. 11"],
-      "description": "정보보호학과 19학번 3학년"
+      "description": "정보보호학과 19학번 3학년, 백엔드 개발"
     },
     {
       "id": 2,
       "name": "김명규",
       "period": ["2023. 10", "2023. 11"],
-      "description": "정보보호학과 20학번 2학년"
+      "description": "정보보호학과 20학번 2학년, 백엔드 개발"
     }
   ],
 
   "education": [
     {
-      "id": 0,
-      "name": "첫번째 교육",
-      "period": ["기간"],
-      "description": "첫번째 교육에 대한 간략한 설명"
+      "id": 1,
+      "name": "F.N.S",
+      "period": ["2023년 2학기"],
+      "description": "웹 개발을 중심으로 한 스터디"
     },
     {
-      "id": 1,
-      "name": "두번째 교육",
-      "period": ["기간"],
-      "description": "두번째 교육에 대한 간략한 설명"
+      "id": 0,
+      "name": "멋쟁이 사자처럼",
+      "period": ["2024년"],
+      "description": "웹 개발 IT 연합 동아리(임원진으로 활동)"
     }
   ],
 
   "certificate": [
     {
       "id": 0,
-      "name": "자격증",
-      "date": "날짜",
-      "organizer": "수여기관"
+      "name": "네트워크 관리사 2급",
+      "date": "2023/10/23",
+      "organizer": "ICQA 한국정보통신자격협회"
     }
   
   ],
